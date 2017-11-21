@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://stevens.org/"
+baseurl = "https://stevensmunoz.github.io/"
 languageCode = "en-us"
 title = "Stevens Portafolio"
 theme = "hugo-freelancer-theme"
