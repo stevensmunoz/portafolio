@@ -40,7 +40,7 @@ theme = "hugo-freelancer-theme"
     [params.header]
         # Copy your own image into './static/img/'' if you wish
         image = "profile_2.png"
-        name = "Stevens Rojas"
+        name = "Steven's Rojas"
         subtitle = "Full Stack Developer"
 
 
@@ -54,6 +54,7 @@ theme = "hugo-freelancer-theme"
         [params.portfolio.modal]
             client = "Cliente"
             date = "Fecha"
+            url = "URL"
             category = "Categoria"
             buttontext = "Cerrar"
 
